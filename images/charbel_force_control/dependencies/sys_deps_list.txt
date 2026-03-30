@@ -1,0 +1,16 @@
+python3-pip
+gnupg
+lsb-release
+wget
+curl
+ca-certificates
+build-essential
+apt-utils
+git
+cmake
+openssh-client
+ssh
+gedit
+libeigen3-dev
+librange-v3-dev
+libnlopt-cxx-dev
