@@ -1,0 +1,15 @@
+xacro
+ros2-control
+ros2-controllers
+realtime-tools
+control-toolbox
+ament-cmake
+rviz-visual-tools
+py-binding-tools
+ur*
+plotjuggler-ros
+generate-parameter-library
+rmw-cyclonedds-cpp
+rqt
+dual-laser-merger
+odom-to-tf-ros2

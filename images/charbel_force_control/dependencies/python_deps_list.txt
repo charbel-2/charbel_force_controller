@@ -1,0 +1,6 @@
+colcon-common-extensions
+colcon-ros
+rosdep
+scipy
+matplotlib
+numpy
